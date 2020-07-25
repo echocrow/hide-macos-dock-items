@@ -2,7 +2,7 @@
 
 The following steps (should) allow you to hide the _Finder_ and/or _Trash_ items from your macOS Dock.
 
-The following steps and scripts were successfully tested on macOS Catalina v10.15.6. Your milage may vary.
+These instructions and scripts were successfully tested on macOS Catalina v10.15. Your milage may vary.
 
 ## Instructions
 
